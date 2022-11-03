@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnckes
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on community
+- 💞️ I’m looking to collaborate in community
 - 📫 @junckesjonathan
 
 <!---
